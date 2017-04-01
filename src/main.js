@@ -23,4 +23,17 @@ import Vue from 'vue'
 // import router from './router/Router2';
 
 // query append exact
-import router from './router/Router3';
+// import router from './router/Router3';
+
+// 路由重定向 和 alias
+// import router from './router/Router4';
+
+// 简单动画
+// import tranistion from './tranistion.vue';
+// new Vue({
+//   el: '#demo',
+//   render: xx => xx(tranistion)
+// })
+
+// 复杂动画+watch+404页面 可以尝试换一下mode的out-in 和 in-out
+import router from './router/Router5';
